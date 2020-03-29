@@ -1,0 +1,3 @@
+- Pineapple :pineapple:
+- Guitar :guitar:
+- Laptops :computer:
