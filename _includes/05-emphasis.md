@@ -1,3 +1,3 @@
 - __Coder__
 - __Msician__
-- _Knows __Python__
+- _Knows_ __Python__ 
